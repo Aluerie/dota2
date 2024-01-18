@@ -9,3 +9,8 @@ build
 venv
 *.log
 .idea
+
+# I'm lazy to path into terminal, sorry folks
+protoc.exe  
+
+.vscode

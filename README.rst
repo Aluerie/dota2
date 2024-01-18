@@ -1,3 +1,12 @@
+Fork info
+------------
+Just check out wiki of the repository.
+
+
+Original README
+------------
+
+
 | |pypi| |license| |docs|
 | |sonar_maintainability| |sonar_reliability| |sonar_security|
 
